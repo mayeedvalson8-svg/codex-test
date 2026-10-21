@@ -1,0 +1,1201 @@
+{
+  "brand": "添可",
+  "models": [
+    {
+      "model": "iFloor Y3 Stretch Lite",
+      "price": 9510,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 9,
+          "sales": 183510,
+          "records": 1
+        },
+        {
+          "month": "2026-01",
+          "qty": 18,
+          "sales": 312658,
+          "records": 1
+        },
+        {
+          "month": "2026-02",
+          "qty": 115,
+          "sales": 1786984,
+          "records": 2
+        },
+        {
+          "month": "2026-03",
+          "qty": 315,
+          "sales": 5050661,
+          "records": 3
+        },
+        {
+          "month": "2026-04",
+          "qty": 128,
+          "sales": 2351425,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 75,
+          "sales": 1470388,
+          "records": 1
+        },
+        {
+          "month": "2026-06",
+          "qty": 197,
+          "sales": 2863111,
+          "records": 1
+        },
+        {
+          "month": "2026-07",
+          "qty": 585,
+          "sales": 7300210,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 612,
+          "sales": 6939857,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 1672,
+          "sales": 17979563,
+          "records": 2
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 3726,
+          "sales": 46238367
+        }
+      },
+      "detachable": false,
+      "steam": false
+    },
+    {
+      "model": "Floor One i6 Stretch Plus",
+      "price": 16226,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 29,
+          "sales": 630858,
+          "records": 1
+        },
+        {
+          "month": "2026-04",
+          "qty": 92,
+          "sales": 2162849,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 165,
+          "sales": 3396408,
+          "records": 3
+        },
+        {
+          "month": "2026-06",
+          "qty": 203,
+          "sales": 4219307,
+          "records": 3
+        },
+        {
+          "month": "2026-07",
+          "qty": 499,
+          "sales": 9517652,
+          "records": 4
+        },
+        {
+          "month": "2026-08",
+          "qty": 841,
+          "sales": 14960478,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 1027,
+          "sales": 18513778,
+          "records": 4
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 2856,
+          "sales": 53401330
+        }
+      },
+      "detachable": false,
+      "steam": false
+    },
+    {
+      "model": "Floor One S6 Stretch Max",
+      "price": 19776,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 58,
+          "sales": 1576255,
+          "records": 1
+        },
+        {
+          "month": "2026-04",
+          "qty": 305,
+          "sales": 8278277,
+          "records": 3
+        },
+        {
+          "month": "2026-05",
+          "qty": 625,
+          "sales": 13135127,
+          "records": 2
+        },
+        {
+          "month": "2026-06",
+          "qty": 737,
+          "sales": 16582652,
+          "records": 1
+        },
+        {
+          "month": "2026-07",
+          "qty": 1005,
+          "sales": 23092732,
+          "records": 3
+        },
+        {
+          "month": "2026-08",
+          "qty": 1664,
+          "sales": 35334069,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 1653,
+          "sales": 34667654,
+          "records": 4
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 6047,
+          "sales": 132666766
+        }
+      },
+      "detachable": false,
+      "steam": false
+    },
+    {
+      "model": "Floor One S5 Plus",
+      "price": 18045,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 31,
+          "sales": 712262,
+          "records": 1
+        },
+        {
+          "month": "2025-11",
+          "qty": 13,
+          "sales": 432871,
+          "records": 1
+        },
+        {
+          "month": "2025-12",
+          "qty": 17,
+          "sales": 398037,
+          "records": 2
+        },
+        {
+          "month": "2026-01",
+          "qty": 20,
+          "sales": 458055,
+          "records": 1
+        },
+        {
+          "month": "2026-02",
+          "qty": 22,
+          "sales": 503953,
+          "records": 1
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 40,
+          "sales": 880571,
+          "records": 2
+        },
+        {
+          "month": "2026-05",
+          "qty": 18,
+          "sales": 405922,
+          "records": 2
+        },
+        {
+          "month": "2026-06",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-07",
+          "qty": 2,
+          "sales": 58244,
+          "records": 1
+        },
+        {
+          "month": "2026-08",
+          "qty": 16,
+          "sales": 389996,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 33,
+          "sales": 715361,
+          "records": 1
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 212,
+          "sales": 4955272
+        }
+      },
+      "detachable": false,
+      "steam": false
+    },
+    {
+      "model": "Floor One Switch i6 Power Kit",
+      "price": 28776,
+      "band": 25000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 14,
+          "sales": 433078,
+          "records": 1
+        },
+        {
+          "month": "2026-04",
+          "qty": 65,
+          "sales": 2181908,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 94,
+          "sales": 2808943,
+          "records": 1
+        },
+        {
+          "month": "2026-06",
+          "qty": 172,
+          "sales": 5162796,
+          "records": 1
+        },
+        {
+          "month": "2026-07",
+          "qty": 153,
+          "sales": 4793601,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 144,
+          "sales": 4725590,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 134,
+          "sales": 4445993,
+          "records": 1
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 776,
+          "sales": 24551909
+        }
+      },
+      "detachable": true,
+      "steam": false
+    },
+    {
+      "model": "Floor One S9 Scientist",
+      "price": 69990,
+      "band": 50000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 24,
+          "sales": 1165680,
+          "records": 1
+        },
+        {
+          "month": "2026-07",
+          "qty": 12,
+          "sales": 562646,
+          "records": 1
+        },
+        {
+          "month": "2026-08",
+          "qty": 49,
+          "sales": 2621668,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 10,
+          "sales": 531920,
+          "records": 1
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 95,
+          "sales": 4881914
+        }
+      },
+      "detachable": false,
+      "steam": false
+    },
+    {
+      "model": "Floor One S5 Combo",
+      "price": 18406,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 26,
+          "sales": 376012,
+          "records": 1
+        },
+        {
+          "month": "2025-11",
+          "qty": 219,
+          "sales": 3174089,
+          "records": 3
+        },
+        {
+          "month": "2025-12",
+          "qty": 98,
+          "sales": 1716028,
+          "records": 4
+        },
+        {
+          "month": "2026-01",
+          "qty": 93,
+          "sales": 1653940,
+          "records": 4
+        },
+        {
+          "month": "2026-02",
+          "qty": 37,
+          "sales": 664457,
+          "records": 1
+        },
+        {
+          "month": "2026-03",
+          "qty": 69,
+          "sales": 1156699,
+          "records": 1
+        },
+        {
+          "month": "2026-04",
+          "qty": 8,
+          "sales": 137964,
+          "records": 2
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-07",
+          "qty": 3,
+          "sales": 67765,
+          "records": 1
+        },
+        {
+          "month": "2026-08",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-09",
+          "qty": 4,
+          "sales": 72256,
+          "records": 1
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 557,
+          "sales": 9019210
+        }
+      },
+      "detachable": true,
+      "steam": false
+    },
+    {
+      "model": "Floor One Switch S7 Stretch",
+      "price": 34858,
+      "band": 30000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 41,
+          "sales": 1604283,
+          "records": 3
+        },
+        {
+          "month": "2026-04",
+          "qty": 80,
+          "sales": 3410718,
+          "records": 2
+        },
+        {
+          "month": "2026-05",
+          "qty": 101,
+          "sales": 4082882,
+          "records": 2
+        },
+        {
+          "month": "2026-06",
+          "qty": 163,
+          "sales": 6150320,
+          "records": 2
+        },
+        {
+          "month": "2026-07",
+          "qty": 160,
+          "sales": 6189977,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 195,
+          "sales": 7985924,
+          "records": 1
+        },
+        {
+          "month": "2026-09",
+          "qty": 281,
+          "sales": 11254637,
+          "records": 3
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 1021,
+          "sales": 40678741
+        }
+      },
+      "detachable": true,
+      "steam": false
+    },
+    {
+      "model": "Floor One i7 Steam",
+      "price": 27554,
+      "band": 25000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 66,
+          "sales": 2473559,
+          "records": 1
+        },
+        {
+          "month": "2026-06",
+          "qty": 99,
+          "sales": 4438233,
+          "records": 3
+        },
+        {
+          "month": "2026-07",
+          "qty": 93,
+          "sales": 3151934,
+          "records": 3
+        },
+        {
+          "month": "2026-08",
+          "qty": 200,
+          "sales": 6129867,
+          "records": 3
+        },
+        {
+          "month": "2026-09",
+          "qty": 303,
+          "sales": 9217726,
+          "records": 3
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 761,
+          "sales": 25411319
+        }
+      },
+      "detachable": false,
+      "steam": true
+    },
+    {
+      "model": "Floor One S9 Artist Steam Pro",
+      "price": 43776,
+      "band": 40000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 28,
+          "sales": 1415771,
+          "records": 3
+        },
+        {
+          "month": "2026-05",
+          "qty": 86,
+          "sales": 4041351,
+          "records": 4
+        },
+        {
+          "month": "2026-06",
+          "qty": 248,
+          "sales": 10008418,
+          "records": 6
+        },
+        {
+          "month": "2026-07",
+          "qty": 183,
+          "sales": 8303626,
+          "records": 4
+        },
+        {
+          "month": "2026-08",
+          "qty": 148,
+          "sales": 6512777,
+          "records": 3
+        },
+        {
+          "month": "2026-09",
+          "qty": 243,
+          "sales": 10552341,
+          "records": 5
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 936,
+          "sales": 40834284
+        }
+      },
+      "detachable": false,
+      "steam": true
+    },
+    {
+      "model": "Floor One S9 Artist Pro",
+      "price": null,
+      "band": null,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 15,
+          "sales": 848822,
+          "records": 1
+        },
+        {
+          "month": "2025-11",
+          "qty": 7,
+          "sales": 402494,
+          "records": 1
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 39,
+          "sales": 1236712,
+          "records": 2
+        },
+        {
+          "month": "2026-07",
+          "qty": 28,
+          "sales": 865846,
+          "records": 1
+        },
+        {
+          "month": "2026-08",
+          "qty": 149,
+          "sales": 5268732,
+          "records": 3
+        },
+        {
+          "month": "2026-09",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 238,
+          "sales": 8622606
+        }
+      },
+      "detachable": false,
+      "steam": false
+    },
+    {
+      "model": "iFloor 5",
+      "price": 17409,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 61,
+          "sales": 1014232,
+          "records": 1
+        },
+        {
+          "month": "2026-02",
+          "qty": 21,
+          "sales": 358126,
+          "records": 1
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 19,
+          "sales": 317213,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 3,
+          "sales": 69184,
+          "records": 1
+        },
+        {
+          "month": "2026-07",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-08",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-09",
+          "qty": 39,
+          "sales": 634797,
+          "records": 2
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 143,
+          "sales": 2393552
+        }
+      },
+      "detachable": false,
+      "steam": false
+    },
+    {
+      "model": "Floor One i7 Fold",
+      "price": 33273,
+      "band": 30000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 38,
+          "sales": 1075326,
+          "records": 1
+        },
+        {
+          "month": "2026-07",
+          "qty": 36,
+          "sales": 994078,
+          "records": 1
+        },
+        {
+          "month": "2026-08",
+          "qty": 61,
+          "sales": 2060199,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 135,
+          "sales": 4129603
+        }
+      },
+      "detachable": false,
+      "steam": false
+    }
+  ],
+  "months": [
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
+  ],
+  "upgrades": {
+    "iFloor Y3 Stretch Lite": [
+      "iFLOOR Y2 → iFLOOR Y3 Stretch Lite",
+      "吸力提升至20,000Pa；续航30 → 40分钟；新增180°平躺，低矮通行高度13cm。"
+    ],
+    "Floor One i6 Stretch Plus": [
+      "Y3 Stretch Lite → i6 Stretch Plus",
+      "新增iLoop脏污感应、电解水除菌，以及85℃热水自清洁和85℃热风烘干。"
+    ],
+    "Floor One S6 Stretch Max": [
+      "S6 Stretch Pro → S6 Stretch Max",
+      "吸力提升至22,000Pa，续航提升至60分钟；新增前后电动助力轮。"
+    ],
+    "Floor One S5 Plus": [
+      "S平台首款",
+      "新增App交互功能。"
+    ],
+    "Floor One Switch i6 Power Kit": [
+      "S5 Combo → Switch i6 Power Kit",
+      "吸力提升至20,000Pa，续航提升至65分钟；新增180°平躺，以及85℃热水自清洁和85℃热风烘干。"
+    ],
+    "Floor One S9 Scientist": [
+      "S9 Artist Premium → S9 Scientist",
+      "续航提升至80分钟；新增三侧贴边、智能刮水条及定点高压喷水。"
+    ],
+    "Floor One S5 Combo": [
+      "S5 Plus → S5 Combo",
+      "增加二合一可拆平台，形成洗地＋手持吸尘的组合。"
+    ],
+    "Floor One Switch S7 Stretch": [
+      "Switch i6 Power Kit → Switch S7 Stretch",
+      "吸力提升至22,000Pa，净水箱提升至1.0L；新增地刷照明。"
+    ],
+    "Floor One i7 Steam": [
+      "i7蒸汽平台首款",
+      "吸力22,000Pa、续航80分钟；新增160℃蒸汽洗地，以及85℃热水自清洁和85℃热风烘干。"
+    ],
+    "Floor One S9 Artist Steam Pro": [
+      "i7 Steam → S9 Artist Steam Pro",
+      "续航提升至90分钟；新增三侧贴边、电动助力轮和脏污感应。"
+    ],
+    "iFloor 5": [
+      "基础款",
+      "续航30分钟、单侧贴边，具备基础自清洁。"
+    ],
+    "Floor One i7 Fold": [
+      "i6 Stretch Plus → i7 Fold",
+      "吸力提升至22,000Pa，续航50分钟；新增9.6cm超低折叠平躺及电动助力轮。"
+    ]
+  },
+  "newProducts": []
+}

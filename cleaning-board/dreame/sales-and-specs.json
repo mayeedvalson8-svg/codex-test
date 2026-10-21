@@ -1,0 +1,2997 @@
+{
+  "brand": "追觅",
+  "months": [
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09"
+  ],
+  "models": [
+    {
+      "model": "G10 Pro",
+      "price": 24181.0,
+      "band": 20000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 818,
+          "sales": 13922432,
+          "records": 16
+        },
+        {
+          "month": "2025-11",
+          "qty": 794,
+          "sales": 13503373,
+          "records": 16
+        },
+        {
+          "month": "2025-12",
+          "qty": 212,
+          "sales": 3534168,
+          "records": 7
+        },
+        {
+          "month": "2026-01",
+          "qty": 169,
+          "sales": 2856787,
+          "records": 6
+        },
+        {
+          "month": "2026-02",
+          "qty": 245,
+          "sales": 4547391,
+          "records": 11
+        },
+        {
+          "month": "2026-03",
+          "qty": 584,
+          "sales": 11371106,
+          "records": 12
+        },
+        {
+          "month": "2026-04",
+          "qty": 796,
+          "sales": 14213066,
+          "records": 11
+        },
+        {
+          "month": "2026-05",
+          "qty": 581,
+          "sales": 11311741,
+          "records": 11
+        },
+        {
+          "month": "2026-06",
+          "qty": 504,
+          "sales": 9701081,
+          "records": 12
+        },
+        {
+          "month": "2026-07",
+          "qty": 191,
+          "sales": 4031371,
+          "records": 7
+        },
+        {
+          "month": "2026-08",
+          "qty": 457,
+          "sales": 9171262,
+          "records": 12
+        },
+        {
+          "month": "2026-09",
+          "qty": 694,
+          "sales": 13612240,
+          "records": 9
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 6045,
+          "sales": 111776018
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "2425755112",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "G12",
+      "price": 31320,
+      "band": 30000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 13,
+          "sales": 534970,
+          "records": 2
+        },
+        {
+          "month": "2026-03",
+          "qty": 55,
+          "sales": 2110372,
+          "records": 3
+        },
+        {
+          "month": "2026-04",
+          "qty": 65,
+          "sales": 2505400,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 40,
+          "sales": 1250489,
+          "records": 3
+        },
+        {
+          "month": "2026-06",
+          "qty": 41,
+          "sales": 1479659,
+          "records": 4
+        },
+        {
+          "month": "2026-07",
+          "qty": 49,
+          "sales": 1601963,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 143,
+          "sales": 4262006,
+          "records": 7
+        },
+        {
+          "month": "2026-09",
+          "qty": 233,
+          "sales": 7297562,
+          "records": 8
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 639,
+          "sales": 21042421
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "3436800087",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "G12 Pro",
+      "price": 40276.0,
+      "band": 40000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 10,
+          "sales": 398680,
+          "records": 1
+        },
+        {
+          "month": "2026-03",
+          "qty": 25,
+          "sales": 1074474,
+          "records": 1
+        },
+        {
+          "month": "2026-04",
+          "qty": 13,
+          "sales": 603059,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 4,
+          "sales": 187002,
+          "records": 1
+        },
+        {
+          "month": "2026-06",
+          "qty": 77,
+          "sales": 3036466,
+          "records": 5
+        },
+        {
+          "month": "2026-07",
+          "qty": 73,
+          "sales": 2704444,
+          "records": 4
+        },
+        {
+          "month": "2026-08",
+          "qty": 329,
+          "sales": 11197437,
+          "records": 6
+        },
+        {
+          "month": "2026-09",
+          "qty": 359,
+          "sales": 12600594,
+          "records": 6
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 890,
+          "sales": 31802156
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "3436758870",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "G12S Pro",
+      "price": 40703.0,
+      "band": 40000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 54,
+          "sales": 2485458,
+          "records": 2
+        },
+        {
+          "month": "2026-05",
+          "qty": 119,
+          "sales": 5057588,
+          "records": 5
+        },
+        {
+          "month": "2026-06",
+          "qty": 179,
+          "sales": 7794431,
+          "records": 5
+        },
+        {
+          "month": "2026-07",
+          "qty": 271,
+          "sales": 10805144,
+          "records": 5
+        },
+        {
+          "month": "2026-08",
+          "qty": 378,
+          "sales": 15131951,
+          "records": 3
+        },
+        {
+          "month": "2026-09",
+          "qty": 176,
+          "sales": 6822347,
+          "records": 5
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 1177,
+          "sales": 48096919
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "3595477682",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H11 Core",
+      "price": 14773,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 509,
+          "sales": 8050259,
+          "records": 11
+        },
+        {
+          "month": "2025-11",
+          "qty": 369,
+          "sales": 5350721,
+          "records": 3
+        },
+        {
+          "month": "2025-12",
+          "qty": 64,
+          "sales": 1122618,
+          "records": 3
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 54,
+          "sales": 847924,
+          "records": 2
+        },
+        {
+          "month": "2026-03",
+          "qty": 39,
+          "sales": 538282,
+          "records": 1
+        },
+        {
+          "month": "2026-04",
+          "qty": 163,
+          "sales": 2379774,
+          "records": 4
+        },
+        {
+          "month": "2026-05",
+          "qty": 97,
+          "sales": 1351031,
+          "records": 2
+        },
+        {
+          "month": "2026-06",
+          "qty": 147,
+          "sales": 2022569,
+          "records": 3
+        },
+        {
+          "month": "2026-07",
+          "qty": 34,
+          "sales": 444042,
+          "records": 1
+        },
+        {
+          "month": "2026-08",
+          "qty": 35,
+          "sales": 547634,
+          "records": 1
+        },
+        {
+          "month": "2026-09",
+          "qty": 33,
+          "sales": 487510,
+          "records": 1
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 1544,
+          "sales": 23142364
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "720786022",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "H12 Core",
+      "price": null,
+      "band": null,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 147,
+          "sales": 3446352,
+          "records": 3
+        },
+        {
+          "month": "2025-11",
+          "qty": 196,
+          "sales": 4566873,
+          "records": 5
+        },
+        {
+          "month": "2025-12",
+          "qty": 29,
+          "sales": 492765,
+          "records": 2
+        },
+        {
+          "month": "2026-01",
+          "qty": 52,
+          "sales": 884383,
+          "records": 1
+        },
+        {
+          "month": "2026-02",
+          "qty": 38,
+          "sales": 653527,
+          "records": 2
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-07",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-08",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-09",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 462,
+          "sales": 10043900
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "373628609",
+      "priceSource": "无可用参考价"
+    },
+    {
+      "model": "H12 Flex Reach",
+      "price": 20017.0,
+      "band": 20000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 15,
+          "sales": 267203,
+          "records": 1
+        },
+        {
+          "month": "2026-01",
+          "qty": 14,
+          "sales": 252453,
+          "records": 1
+        },
+        {
+          "month": "2026-02",
+          "qty": 12,
+          "sales": 217129,
+          "records": 1
+        },
+        {
+          "month": "2026-03",
+          "qty": 63,
+          "sales": 1236797,
+          "records": 2
+        },
+        {
+          "month": "2026-04",
+          "qty": 215,
+          "sales": 3841570,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 138,
+          "sales": 2388756,
+          "records": 2
+        },
+        {
+          "month": "2026-06",
+          "qty": 73,
+          "sales": 1277444,
+          "records": 3
+        },
+        {
+          "month": "2026-07",
+          "qty": 149,
+          "sales": 5821631,
+          "records": 3
+        },
+        {
+          "month": "2026-08",
+          "qty": 20,
+          "sales": 404398,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 9,
+          "sales": 182078,
+          "records": 2
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 708,
+          "sales": 15889459
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "1868942192",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H12 GT",
+      "price": 28520,
+      "band": 25000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 2,
+          "sales": 81548,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 3,
+          "sales": 112317,
+          "records": 1
+        },
+        {
+          "month": "2026-06",
+          "qty": 317,
+          "sales": 8918834,
+          "records": 3
+        },
+        {
+          "month": "2026-07",
+          "qty": 474,
+          "sales": 13527906,
+          "records": 3
+        },
+        {
+          "month": "2026-08",
+          "qty": 356,
+          "sales": 11588879,
+          "records": 3
+        },
+        {
+          "month": "2026-09",
+          "qty": 395,
+          "sales": 11265539,
+          "records": 3
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 1547,
+          "sales": 45495023
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "3589393915",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "H12 Pro Plus",
+      "price": 17518.0,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 1218,
+          "sales": 18939374,
+          "records": 18
+        },
+        {
+          "month": "2025-11",
+          "qty": 1192,
+          "sales": 18702321,
+          "records": 16
+        },
+        {
+          "month": "2025-12",
+          "qty": 943,
+          "sales": 14886726,
+          "records": 14
+        },
+        {
+          "month": "2026-01",
+          "qty": 964,
+          "sales": 15627797,
+          "records": 22
+        },
+        {
+          "month": "2026-02",
+          "qty": 871,
+          "sales": 14032361,
+          "records": 22
+        },
+        {
+          "month": "2026-03",
+          "qty": 677,
+          "sales": 11303618,
+          "records": 15
+        },
+        {
+          "month": "2026-04",
+          "qty": 653,
+          "sales": 11003719,
+          "records": 15
+        },
+        {
+          "month": "2026-05",
+          "qty": 394,
+          "sales": 6141249,
+          "records": 17
+        },
+        {
+          "month": "2026-06",
+          "qty": 449,
+          "sales": 7394508,
+          "records": 17
+        },
+        {
+          "month": "2026-07",
+          "qty": 243,
+          "sales": 3959203,
+          "records": 12
+        },
+        {
+          "month": "2026-08",
+          "qty": 363,
+          "sales": 6796762,
+          "records": 19
+        },
+        {
+          "month": "2026-09",
+          "qty": 496,
+          "sales": 9698042,
+          "records": 19
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 8463,
+          "sales": 138485680
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "1039806336",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H12 Pro Flex Reach",
+      "price": 36653.0,
+      "band": 35000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 620,
+          "sales": 19846139,
+          "records": 27
+        },
+        {
+          "month": "2025-11",
+          "qty": 391,
+          "sales": 10797635,
+          "records": 15
+        },
+        {
+          "month": "2025-12",
+          "qty": 407,
+          "sales": 11674015,
+          "records": 13
+        },
+        {
+          "month": "2026-01",
+          "qty": 436,
+          "sales": 11809260,
+          "records": 17
+        },
+        {
+          "month": "2026-02",
+          "qty": 447,
+          "sales": 12593394,
+          "records": 18
+        },
+        {
+          "month": "2026-03",
+          "qty": 416,
+          "sales": 11532501,
+          "records": 19
+        },
+        {
+          "month": "2026-04",
+          "qty": 333,
+          "sales": 9662358,
+          "records": 14
+        },
+        {
+          "month": "2026-05",
+          "qty": 301,
+          "sales": 8202648,
+          "records": 14
+        },
+        {
+          "month": "2026-06",
+          "qty": 236,
+          "sales": 5847311,
+          "records": 12
+        },
+        {
+          "month": "2026-07",
+          "qty": 174,
+          "sales": 4618478,
+          "records": 10
+        },
+        {
+          "month": "2026-08",
+          "qty": 313,
+          "sales": 8648656,
+          "records": 11
+        },
+        {
+          "month": "2026-09",
+          "qty": 346,
+          "sales": 9451695,
+          "records": 12
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 4420,
+          "sales": 124684090
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "2383995866",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H12S",
+      "price": 18615.0,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 733,
+          "sales": 18010605,
+          "records": 21
+        },
+        {
+          "month": "2025-11",
+          "qty": 663,
+          "sales": 15276529,
+          "records": 15
+        },
+        {
+          "month": "2025-12",
+          "qty": 706,
+          "sales": 17724005,
+          "records": 17
+        },
+        {
+          "month": "2026-01",
+          "qty": 190,
+          "sales": 5024046,
+          "records": 10
+        },
+        {
+          "month": "2026-02",
+          "qty": 243,
+          "sales": 5552238,
+          "records": 10
+        },
+        {
+          "month": "2026-03",
+          "qty": 454,
+          "sales": 10780656,
+          "records": 10
+        },
+        {
+          "month": "2026-04",
+          "qty": 263,
+          "sales": 7034865,
+          "records": 9
+        },
+        {
+          "month": "2026-05",
+          "qty": 186,
+          "sales": 4282918,
+          "records": 8
+        },
+        {
+          "month": "2026-06",
+          "qty": 308,
+          "sales": 7882808,
+          "records": 11
+        },
+        {
+          "month": "2026-07",
+          "qty": 134,
+          "sales": 3693193,
+          "records": 6
+        },
+        {
+          "month": "2026-08",
+          "qty": 341,
+          "sales": 8021864,
+          "records": 9
+        },
+        {
+          "month": "2026-09",
+          "qty": 175,
+          "sales": 4251261,
+          "records": 8
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 4396,
+          "sales": 107534988
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "5357332132",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H13 Pro",
+      "price": 23241,
+      "band": 20000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 791,
+          "sales": 33639669,
+          "records": 23
+        },
+        {
+          "month": "2025-11",
+          "qty": 809,
+          "sales": 26908488,
+          "records": 17
+        },
+        {
+          "month": "2025-12",
+          "qty": 229,
+          "sales": 6801013,
+          "records": 9
+        },
+        {
+          "month": "2026-01",
+          "qty": 180,
+          "sales": 6127573,
+          "records": 12
+        },
+        {
+          "month": "2026-02",
+          "qty": 317,
+          "sales": 10002554,
+          "records": 13
+        },
+        {
+          "month": "2026-03",
+          "qty": 132,
+          "sales": 4574017,
+          "records": 11
+        },
+        {
+          "month": "2026-04",
+          "qty": 56,
+          "sales": 2038570,
+          "records": 8
+        },
+        {
+          "month": "2026-05",
+          "qty": 89,
+          "sales": 3641103,
+          "records": 9
+        },
+        {
+          "month": "2026-06",
+          "qty": 131,
+          "sales": 4801169,
+          "records": 6
+        },
+        {
+          "month": "2026-07",
+          "qty": 49,
+          "sales": 1686383,
+          "records": 7
+        },
+        {
+          "month": "2026-08",
+          "qty": 6,
+          "sales": 91508,
+          "records": 1
+        },
+        {
+          "month": "2026-09",
+          "qty": 174,
+          "sales": 4043903,
+          "records": 6
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 2963,
+          "sales": 104355950
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "5618990640",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "H14 / H20 Ultra",
+      "price": 19496.0,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 1271,
+          "sales": 22446879,
+          "records": 19
+        },
+        {
+          "month": "2025-11",
+          "qty": 1314,
+          "sales": 23783629,
+          "records": 15
+        },
+        {
+          "month": "2025-12",
+          "qty": 1269,
+          "sales": 23178806,
+          "records": 17
+        },
+        {
+          "month": "2026-01",
+          "qty": 1226,
+          "sales": 22933284,
+          "records": 18
+        },
+        {
+          "month": "2026-02",
+          "qty": 1174,
+          "sales": 22244249,
+          "records": 22
+        },
+        {
+          "month": "2026-03",
+          "qty": 844,
+          "sales": 16709462,
+          "records": 20
+        },
+        {
+          "month": "2026-04",
+          "qty": 743,
+          "sales": 14487793,
+          "records": 22
+        },
+        {
+          "month": "2026-05",
+          "qty": 703,
+          "sales": 12394596,
+          "records": 18
+        },
+        {
+          "month": "2026-06",
+          "qty": 757,
+          "sales": 13608892,
+          "records": 15
+        },
+        {
+          "month": "2026-07",
+          "qty": 738,
+          "sales": 13962962,
+          "records": 20
+        },
+        {
+          "month": "2026-08",
+          "qty": 946,
+          "sales": 19121374,
+          "records": 24
+        },
+        {
+          "month": "2026-09",
+          "qty": 1154,
+          "sales": 24445887,
+          "records": 25
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 12139,
+          "sales": 229317813
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "1668734275",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H15 Heat",
+      "price": 39700.0,
+      "band": 35000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-07",
+          "qty": 2,
+          "sales": 106649,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 125,
+          "sales": 6569223,
+          "records": 4
+        },
+        {
+          "month": "2026-09",
+          "qty": 161,
+          "sales": 7481580,
+          "records": 3
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 288,
+          "sales": 14157452
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "5155266786",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H15 Pro",
+      "price": 23812,
+      "band": 20000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 69,
+          "sales": 2148412,
+          "records": 6
+        },
+        {
+          "month": "2025-11",
+          "qty": 136,
+          "sales": 4901018,
+          "records": 6
+        },
+        {
+          "month": "2025-12",
+          "qty": 134,
+          "sales": 3237201,
+          "records": 8
+        },
+        {
+          "month": "2026-01",
+          "qty": 147,
+          "sales": 3146827,
+          "records": 9
+        },
+        {
+          "month": "2026-02",
+          "qty": 142,
+          "sales": 2905873,
+          "records": 7
+        },
+        {
+          "month": "2026-03",
+          "qty": 128,
+          "sales": 2871277,
+          "records": 5
+        },
+        {
+          "month": "2026-04",
+          "qty": 108,
+          "sales": 2337078,
+          "records": 6
+        },
+        {
+          "month": "2026-05",
+          "qty": 114,
+          "sales": 2247532,
+          "records": 6
+        },
+        {
+          "month": "2026-06",
+          "qty": 23,
+          "sales": 445020,
+          "records": 2
+        },
+        {
+          "month": "2026-07",
+          "qty": 7,
+          "sales": 146121,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 10,
+          "sales": 272075,
+          "records": 4
+        },
+        {
+          "month": "2026-09",
+          "qty": 7,
+          "sales": 166684,
+          "records": 1
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 1025,
+          "sales": 24825118
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "3310861301",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "H15 Pro Heat",
+      "price": 50314.0,
+      "band": 50000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 987,
+          "sales": 52824059,
+          "records": 30
+        },
+        {
+          "month": "2025-11",
+          "qty": 1065,
+          "sales": 51372300,
+          "records": 29
+        },
+        {
+          "month": "2025-12",
+          "qty": 719,
+          "sales": 35473061,
+          "records": 22
+        },
+        {
+          "month": "2026-01",
+          "qty": 779,
+          "sales": 38554171,
+          "records": 23
+        },
+        {
+          "month": "2026-02",
+          "qty": 764,
+          "sales": 36853400,
+          "records": 21
+        },
+        {
+          "month": "2026-03",
+          "qty": 860,
+          "sales": 41073332,
+          "records": 25
+        },
+        {
+          "month": "2026-04",
+          "qty": 1128,
+          "sales": 58936399,
+          "records": 33
+        },
+        {
+          "month": "2026-05",
+          "qty": 656,
+          "sales": 31109696,
+          "records": 41
+        },
+        {
+          "month": "2026-06",
+          "qty": 478,
+          "sales": 22973785,
+          "records": 32
+        },
+        {
+          "month": "2026-07",
+          "qty": 374,
+          "sales": 15405463,
+          "records": 29
+        },
+        {
+          "month": "2026-08",
+          "qty": 473,
+          "sales": 24024299,
+          "records": 35
+        },
+        {
+          "month": "2026-09",
+          "qty": 910,
+          "sales": 44989286,
+          "records": 31
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 9193,
+          "sales": 453589251
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "2425870765",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H15S",
+      "price": 36285,
+      "band": 35000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 342,
+          "sales": 12564117,
+          "records": 8
+        },
+        {
+          "month": "2025-11",
+          "qty": 112,
+          "sales": 3835322,
+          "records": 6
+        },
+        {
+          "month": "2025-12",
+          "qty": 672,
+          "sales": 19362580,
+          "records": 5
+        },
+        {
+          "month": "2026-01",
+          "qty": 81,
+          "sales": 3580826,
+          "records": 9
+        },
+        {
+          "month": "2026-02",
+          "qty": 180,
+          "sales": 6813050,
+          "records": 6
+        },
+        {
+          "month": "2026-03",
+          "qty": 665,
+          "sales": 28244256,
+          "records": 9
+        },
+        {
+          "month": "2026-04",
+          "qty": 924,
+          "sales": 39932235,
+          "records": 10
+        },
+        {
+          "month": "2026-05",
+          "qty": 1668,
+          "sales": 61296550,
+          "records": 7
+        },
+        {
+          "month": "2026-06",
+          "qty": 446,
+          "sales": 17654105,
+          "records": 9
+        },
+        {
+          "month": "2026-07",
+          "qty": 454,
+          "sales": 18025353,
+          "records": 7
+        },
+        {
+          "month": "2026-08",
+          "qty": 305,
+          "sales": 12373694,
+          "records": 6
+        },
+        {
+          "month": "2026-09",
+          "qty": 260,
+          "sales": 9434204,
+          "records": 9
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 6109,
+          "sales": 233116292
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "2727023481",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "H20 Ultra Turbo",
+      "price": 19722.0,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-07",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-08",
+          "qty": 38,
+          "sales": 766645,
+          "records": 2
+        },
+        {
+          "month": "2026-09",
+          "qty": 73,
+          "sales": 1466657,
+          "records": 3
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 111,
+          "sales": 2233302
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "5237650199",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H20 Ultra Vortex",
+      "price": 19389,
+      "band": 0,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 25,
+          "sales": 440909,
+          "records": 1
+        },
+        {
+          "month": "2025-11",
+          "qty": 9,
+          "sales": 168062,
+          "records": 1
+        },
+        {
+          "month": "2025-12",
+          "qty": 37,
+          "sales": 659938,
+          "records": 2
+        },
+        {
+          "month": "2026-01",
+          "qty": 58,
+          "sales": 1024038,
+          "records": 2
+        },
+        {
+          "month": "2026-02",
+          "qty": 101,
+          "sales": 1759096,
+          "records": 2
+        },
+        {
+          "month": "2026-03",
+          "qty": 87,
+          "sales": 1601972,
+          "records": 2
+        },
+        {
+          "month": "2026-04",
+          "qty": 74,
+          "sales": 1336106,
+          "records": 2
+        },
+        {
+          "month": "2026-05",
+          "qty": 48,
+          "sales": 811389,
+          "records": 2
+        },
+        {
+          "month": "2026-06",
+          "qty": 70,
+          "sales": 1219221,
+          "records": 2
+        },
+        {
+          "month": "2026-07",
+          "qty": 31,
+          "sales": 562316,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 29,
+          "sales": 562626,
+          "records": 1
+        },
+        {
+          "month": "2026-09",
+          "qty": 42,
+          "sales": 814342,
+          "records": 1
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 611,
+          "sales": 10960015
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "2374824310",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "G10 Combo",
+      "price": 23958.0,
+      "band": 20000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 399,
+          "sales": 8955740,
+          "records": 9
+        },
+        {
+          "month": "2025-11",
+          "qty": 302,
+          "sales": 6868537,
+          "records": 8
+        },
+        {
+          "month": "2025-12",
+          "qty": 360,
+          "sales": 8580182,
+          "records": 6
+        },
+        {
+          "month": "2026-01",
+          "qty": 169,
+          "sales": 4345534,
+          "records": 8
+        },
+        {
+          "month": "2026-02",
+          "qty": 226,
+          "sales": 6078292,
+          "records": 7
+        },
+        {
+          "month": "2026-03",
+          "qty": 285,
+          "sales": 6840998,
+          "records": 7
+        },
+        {
+          "month": "2026-04",
+          "qty": 323,
+          "sales": 7574246,
+          "records": 6
+        },
+        {
+          "month": "2026-05",
+          "qty": 136,
+          "sales": 3079572,
+          "records": 6
+        },
+        {
+          "month": "2026-06",
+          "qty": 58,
+          "sales": 1232229,
+          "records": 3
+        },
+        {
+          "month": "2026-07",
+          "qty": 62,
+          "sales": 1382320,
+          "records": 5
+        },
+        {
+          "month": "2026-08",
+          "qty": 157,
+          "sales": 3959957,
+          "records": 6
+        },
+        {
+          "month": "2026-09",
+          "qty": 288,
+          "sales": 6849899,
+          "records": 9
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 2765,
+          "sales": 65747506
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "2732395832",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "G12 Dual",
+      "price": 47781,
+      "band": 45000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-07",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-08",
+          "qty": 55,
+          "sales": 2906386,
+          "records": 3
+        },
+        {
+          "month": "2026-09",
+          "qty": 83,
+          "sales": 3965839,
+          "records": 3
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 138,
+          "sales": 6872225
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "5182956323",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "H12 Dual",
+      "price": 24783.0,
+      "band": 20000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 724,
+          "sales": 24201787,
+          "records": 26
+        },
+        {
+          "month": "2025-11",
+          "qty": 763,
+          "sales": 25787833,
+          "records": 20
+        },
+        {
+          "month": "2025-12",
+          "qty": 372,
+          "sales": 11211242,
+          "records": 16
+        },
+        {
+          "month": "2026-01",
+          "qty": 149,
+          "sales": 4033692,
+          "records": 11
+        },
+        {
+          "month": "2026-02",
+          "qty": 289,
+          "sales": 7921415,
+          "records": 9
+        },
+        {
+          "month": "2026-03",
+          "qty": 426,
+          "sales": 10675395,
+          "records": 6
+        },
+        {
+          "month": "2026-04",
+          "qty": 177,
+          "sales": 4875269,
+          "records": 5
+        },
+        {
+          "month": "2026-05",
+          "qty": 105,
+          "sales": 2969638,
+          "records": 8
+        },
+        {
+          "month": "2026-06",
+          "qty": 114,
+          "sales": 3799105,
+          "records": 5
+        },
+        {
+          "month": "2026-07",
+          "qty": 136,
+          "sales": 3931461,
+          "records": 5
+        },
+        {
+          "month": "2026-08",
+          "qty": 94,
+          "sales": 2831267,
+          "records": 6
+        },
+        {
+          "month": "2026-09",
+          "qty": 173,
+          "sales": 6108709,
+          "records": 4
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 3522,
+          "sales": 108346813
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "1483316231",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H12 Dual Flex Reach",
+      "price": 32344.0,
+      "band": 30000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 210,
+          "sales": 9478427,
+          "records": 5
+        },
+        {
+          "month": "2025-11",
+          "qty": 215,
+          "sales": 8388180,
+          "records": 6
+        },
+        {
+          "month": "2025-12",
+          "qty": 191,
+          "sales": 9020919,
+          "records": 4
+        },
+        {
+          "month": "2026-01",
+          "qty": 144,
+          "sales": 6860852,
+          "records": 4
+        },
+        {
+          "month": "2026-02",
+          "qty": 278,
+          "sales": 11294642,
+          "records": 7
+        },
+        {
+          "month": "2026-03",
+          "qty": 90,
+          "sales": 4210220,
+          "records": 8
+        },
+        {
+          "month": "2026-04",
+          "qty": 292,
+          "sales": 11992397,
+          "records": 14
+        },
+        {
+          "month": "2026-05",
+          "qty": 254,
+          "sales": 8272474,
+          "records": 15
+        },
+        {
+          "month": "2026-06",
+          "qty": 344,
+          "sales": 11861457,
+          "records": 20
+        },
+        {
+          "month": "2026-07",
+          "qty": 255,
+          "sales": 8074404,
+          "records": 16
+        },
+        {
+          "month": "2026-08",
+          "qty": 211,
+          "sales": 6889023,
+          "records": 13
+        },
+        {
+          "month": "2026-09",
+          "qty": 210,
+          "sales": 7689268,
+          "records": 12
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 2694,
+          "sales": 104032263
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "3681004384",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H14 Dual",
+      "price": 40869,
+      "band": 40000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 860,
+          "sales": 40261609,
+          "records": 27
+        },
+        {
+          "month": "2025-11",
+          "qty": 703,
+          "sales": 29760122,
+          "records": 19
+        },
+        {
+          "month": "2025-12",
+          "qty": 449,
+          "sales": 19237130,
+          "records": 21
+        },
+        {
+          "month": "2026-01",
+          "qty": 175,
+          "sales": 7768531,
+          "records": 17
+        },
+        {
+          "month": "2026-02",
+          "qty": 220,
+          "sales": 10073538,
+          "records": 16
+        },
+        {
+          "month": "2026-03",
+          "qty": 384,
+          "sales": 17841138,
+          "records": 20
+        },
+        {
+          "month": "2026-04",
+          "qty": 321,
+          "sales": 15066967,
+          "records": 17
+        },
+        {
+          "month": "2026-05",
+          "qty": 261,
+          "sales": 12206918,
+          "records": 19
+        },
+        {
+          "month": "2026-06",
+          "qty": 189,
+          "sales": 8651305,
+          "records": 16
+        },
+        {
+          "month": "2026-07",
+          "qty": 82,
+          "sales": 4084903,
+          "records": 11
+        },
+        {
+          "month": "2026-08",
+          "qty": 159,
+          "sales": 7035979,
+          "records": 12
+        },
+        {
+          "month": "2026-09",
+          "qty": 469,
+          "sales": 19167466,
+          "records": 14
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 4272,
+          "sales": 191155606
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "2383995033",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "H13 Pro Plus Mix",
+      "price": 25107.0,
+      "band": 25000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 544,
+          "sales": 12586995,
+          "records": 15
+        },
+        {
+          "month": "2025-11",
+          "qty": 680,
+          "sales": 15387359,
+          "records": 15
+        },
+        {
+          "month": "2025-12",
+          "qty": 355,
+          "sales": 7915752,
+          "records": 13
+        },
+        {
+          "month": "2026-01",
+          "qty": 404,
+          "sales": 9209107,
+          "records": 8
+        },
+        {
+          "month": "2026-02",
+          "qty": 327,
+          "sales": 7461640,
+          "records": 11
+        },
+        {
+          "month": "2026-03",
+          "qty": 249,
+          "sales": 5941650,
+          "records": 10
+        },
+        {
+          "month": "2026-04",
+          "qty": 255,
+          "sales": 5923542,
+          "records": 7
+        },
+        {
+          "month": "2026-05",
+          "qty": 261,
+          "sales": 5555356,
+          "records": 10
+        },
+        {
+          "month": "2026-06",
+          "qty": 162,
+          "sales": 3588860,
+          "records": 8
+        },
+        {
+          "month": "2026-07",
+          "qty": 260,
+          "sales": 6426508,
+          "records": 13
+        },
+        {
+          "month": "2026-08",
+          "qty": 268,
+          "sales": 7072497,
+          "records": 11
+        },
+        {
+          "month": "2026-09",
+          "qty": 325,
+          "sales": 9169937,
+          "records": 16
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 4090,
+          "sales": 96239203
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "1829569839",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H20 Mix",
+      "price": 25018.0,
+      "band": 25000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 663,
+          "sales": 15279214,
+          "records": 10
+        },
+        {
+          "month": "2025-11",
+          "qty": 816,
+          "sales": 18893101,
+          "records": 18
+        },
+        {
+          "month": "2025-12",
+          "qty": 945,
+          "sales": 22402569,
+          "records": 18
+        },
+        {
+          "month": "2026-01",
+          "qty": 717,
+          "sales": 16560843,
+          "records": 23
+        },
+        {
+          "month": "2026-02",
+          "qty": 574,
+          "sales": 13309797,
+          "records": 22
+        },
+        {
+          "month": "2026-03",
+          "qty": 566,
+          "sales": 13760064,
+          "records": 21
+        },
+        {
+          "month": "2026-04",
+          "qty": 348,
+          "sales": 8202116,
+          "records": 12
+        },
+        {
+          "month": "2026-05",
+          "qty": 288,
+          "sales": 6549416,
+          "records": 8
+        },
+        {
+          "month": "2026-06",
+          "qty": 300,
+          "sales": 6884733,
+          "records": 7
+        },
+        {
+          "month": "2026-07",
+          "qty": 333,
+          "sales": 7869799,
+          "records": 9
+        },
+        {
+          "month": "2026-08",
+          "qty": 433,
+          "sales": 10916392,
+          "records": 7
+        },
+        {
+          "month": "2026-09",
+          "qty": 663,
+          "sales": 17424350,
+          "records": 10
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 6646,
+          "sales": 158052394
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "1579302710",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H20 Ultra Mix",
+      "price": 29066.0,
+      "band": 25000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 416,
+          "sales": 11472770,
+          "records": 15
+        },
+        {
+          "month": "2025-11",
+          "qty": 567,
+          "sales": 15350989,
+          "records": 20
+        },
+        {
+          "month": "2025-12",
+          "qty": 580,
+          "sales": 15582696,
+          "records": 20
+        },
+        {
+          "month": "2026-01",
+          "qty": 780,
+          "sales": 20770713,
+          "records": 29
+        },
+        {
+          "month": "2026-02",
+          "qty": 495,
+          "sales": 13092451,
+          "records": 17
+        },
+        {
+          "month": "2026-03",
+          "qty": 455,
+          "sales": 12670629,
+          "records": 22
+        },
+        {
+          "month": "2026-04",
+          "qty": 254,
+          "sales": 6733722,
+          "records": 13
+        },
+        {
+          "month": "2026-05",
+          "qty": 293,
+          "sales": 7526182,
+          "records": 11
+        },
+        {
+          "month": "2026-06",
+          "qty": 249,
+          "sales": 6536571,
+          "records": 12
+        },
+        {
+          "month": "2026-07",
+          "qty": 199,
+          "sales": 5408001,
+          "records": 14
+        },
+        {
+          "month": "2026-08",
+          "qty": 197,
+          "sales": 5712176,
+          "records": 12
+        },
+        {
+          "month": "2026-09",
+          "qty": 268,
+          "sales": 8506464,
+          "records": 10
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 4753,
+          "sales": 129363364
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "2549875948",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H30 Combo",
+      "price": 30428.0,
+      "band": 30000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 25,
+          "sales": 846685,
+          "records": 1
+        },
+        {
+          "month": "2025-11",
+          "qty": 49,
+          "sales": 1560078,
+          "records": 2
+        },
+        {
+          "month": "2025-12",
+          "qty": 32,
+          "sales": 1009914,
+          "records": 2
+        },
+        {
+          "month": "2026-01",
+          "qty": 44,
+          "sales": 1374515,
+          "records": 3
+        },
+        {
+          "month": "2026-02",
+          "qty": 33,
+          "sales": 1031328,
+          "records": 2
+        },
+        {
+          "month": "2026-03",
+          "qty": 26,
+          "sales": 894287,
+          "records": 2
+        },
+        {
+          "month": "2026-04",
+          "qty": 12,
+          "sales": 394820,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 9,
+          "sales": 281020,
+          "records": 3
+        },
+        {
+          "month": "2026-06",
+          "qty": 8,
+          "sales": 254163,
+          "records": 2
+        },
+        {
+          "month": "2026-07",
+          "qty": 21,
+          "sales": 621100,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 50,
+          "sales": 1602794,
+          "records": 3
+        },
+        {
+          "month": "2026-09",
+          "qty": 54,
+          "sales": 1744589,
+          "records": 2
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 363,
+          "sales": 11615293
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "2202140391",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "T50 Mix",
+      "price": 29927.0,
+      "band": 25000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 3,
+          "sales": 113940,
+          "records": 1
+        },
+        {
+          "month": "2026-01",
+          "qty": 7,
+          "sales": 245873,
+          "records": 1
+        },
+        {
+          "month": "2026-02",
+          "qty": 4,
+          "sales": 140974,
+          "records": 1
+        },
+        {
+          "month": "2026-03",
+          "qty": 4,
+          "sales": 144130,
+          "records": 1
+        },
+        {
+          "month": "2026-04",
+          "qty": 7,
+          "sales": 229079,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 3,
+          "sales": 93990,
+          "records": 1
+        },
+        {
+          "month": "2026-06",
+          "qty": 2,
+          "sales": 61750,
+          "records": 1
+        },
+        {
+          "month": "2026-07",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-08",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-09",
+          "qty": 9,
+          "sales": 265858,
+          "records": 2
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 39,
+          "sales": 1295594
+        }
+      },
+      "detachable": true,
+      "steam": false,
+      "sku": "3217343656",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H16 Pro Steam",
+      "price": 76300,
+      "band": 50000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 30,
+          "sales": 1854611,
+          "records": 3
+        },
+        {
+          "month": "2026-05",
+          "qty": 71,
+          "sales": 5130064,
+          "records": 10
+        },
+        {
+          "month": "2026-06",
+          "qty": 100,
+          "sales": 7380705,
+          "records": 14
+        },
+        {
+          "month": "2026-07",
+          "qty": 61,
+          "sales": 4747739,
+          "records": 11
+        },
+        {
+          "month": "2026-08",
+          "qty": 106,
+          "sales": 8372303,
+          "records": 11
+        },
+        {
+          "month": "2026-09",
+          "qty": 220,
+          "sales": 16785988,
+          "records": 11
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 588,
+          "sales": 44271410
+        }
+      },
+      "detachable": false,
+      "steam": true,
+      "sku": "3563750348",
+      "priceSource": "2026年9月成交均价（参考价代理）"
+    },
+    {
+      "model": "H16 Steam",
+      "price": 52771.0,
+      "band": 50000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-01",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-02",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-03",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-04",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-05",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-06",
+          "qty": 29,
+          "sales": 1949869,
+          "records": 3
+        },
+        {
+          "month": "2026-07",
+          "qty": 52,
+          "sales": 3439177,
+          "records": 2
+        },
+        {
+          "month": "2026-08",
+          "qty": 161,
+          "sales": 10962330,
+          "records": 5
+        },
+        {
+          "month": "2026-09",
+          "qty": 311,
+          "sales": 15864430,
+          "records": 5
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 553,
+          "sales": 32215806
+        }
+      },
+      "detachable": false,
+      "steam": true,
+      "sku": "4377262122",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    },
+    {
+      "model": "H60 Ultra",
+      "price": 51709.0,
+      "band": 50000,
+      "monthly": [
+        {
+          "month": "2025-10",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-11",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2025-12",
+          "qty": 2,
+          "sales": 82015,
+          "records": 1
+        },
+        {
+          "month": "2026-01",
+          "qty": 9,
+          "sales": 381871,
+          "records": 1
+        },
+        {
+          "month": "2026-02",
+          "qty": 21,
+          "sales": 892748,
+          "records": 2
+        },
+        {
+          "month": "2026-03",
+          "qty": 15,
+          "sales": 660906,
+          "records": 2
+        },
+        {
+          "month": "2026-04",
+          "qty": 4,
+          "sales": 172696,
+          "records": 1
+        },
+        {
+          "month": "2026-05",
+          "qty": 2,
+          "sales": 151993,
+          "records": 2
+        },
+        {
+          "month": "2026-06",
+          "qty": 1,
+          "sales": 58425,
+          "records": 1
+        },
+        {
+          "month": "2026-07",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-08",
+          "qty": 0,
+          "sales": 0,
+          "records": 0
+        },
+        {
+          "month": "2026-09",
+          "qty": 2,
+          "sales": 105477,
+          "records": 1
+        }
+      ],
+      "periods": {
+        "annual": {
+          "qty": 56,
+          "sales": 2506131
+        }
+      },
+      "detachable": false,
+      "steam": false,
+      "sku": "3385669542",
+      "priceSource": "2026-10-21商品页非银行卡参考价"
+    }
+  ],
+  "upgrades": {
+    "G10 Pro": [
+      "日常单机",
+      "商品标题参数信息不足，详细差异待核实。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "G12": [
+      "日常单机",
+      "25000 Pa、35 分钟、2500 mAh；有自清洁描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "G12 Pro": [
+      "日常单机",
+      "25000 Pa、35 分钟、2500 mAh；有自清洁描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "G12S Pro": [
+      "日常单机",
+      "60 分钟。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H11 Core": [
+      "日常单机",
+      "商品标题参数信息不足，详细差异待核实。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H12 Core": [
+      "日常单机",
+      "商品标题参数信息不足，详细差异待核实。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H12 Flex Reach": [
+      "日常单机",
+      "有自清洁描述；有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H12 GT": [
+      "日常单机",
+      "商品标题参数信息不足，详细差异待核实。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H12 Pro Plus": [
+      "日常单机",
+      "18000 Pa；有180°平躺描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H12 Pro Flex Reach": [
+      "日常单机",
+      "18000 Pa、50 分钟；有180°平躺描述；有自清洁描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H12S": [
+      "日常单机",
+      "35 分钟。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H13 Pro": [
+      "日常单机",
+      "商品标题参数信息不足，详细差异待核实。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H14 / H20 Ultra": [
+      "日常单机",
+      "23000 Pa、40 分钟、4000 mAh。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H15 Heat": [
+      "日常单机",
+      "28000 Pa、60 分钟、4000 mAh；有自清洁描述；有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H15 Pro": [
+      "日常单机",
+      "有自清洁描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H15 Pro Heat": [
+      "日常单机",
+      "有自清洁描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H15S": [
+      "日常单机",
+      "商品标题参数信息不足，详细差异待核实。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H20 Ultra Turbo": [
+      "日常单机",
+      "有180°平躺描述；有自清洁描述；有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H20 Ultra Vortex": [
+      "日常单机",
+      "有180°平躺描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "G10 Combo": [
+      "可拆多用途",
+      "16000 Pa、50 分钟、4000 mAh；有自清洁描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "G12 Dual": [
+      "可拆多用途",
+      "28000 Pa、65 分钟、4000 mAh；有自清洁描述；有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H12 Dual": [
+      "可拆多用途",
+      "有自清洁描述；有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H12 Dual Flex Reach": [
+      "可拆多用途",
+      "有180°平躺描述；有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H14 Dual": [
+      "可拆多用途",
+      "18000 Pa；有180°平躺描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H13 Pro Plus Mix": [
+      "可拆多用途",
+      "有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H20 Mix": [
+      "可拆多用途",
+      "22000 Pa；有自清洁描述；有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H20 Ultra Mix": [
+      "可拆多用途",
+      "有180°平躺描述；有自清洁描述；有烘干描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H30 Combo": [
+      "可拆多用途",
+      "25000 Pa、50 分钟。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "T50 Mix": [
+      "可拆多用途",
+      "有自清洁描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H16 Pro Steam": [
+      "蒸汽路线",
+      "有蒸汽描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H16 Steam": [
+      "蒸汽路线",
+      "28000 Pa、60 分钟、5000 mAh；有自清洁描述；有烘干描述；有蒸汽描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ],
+    "H60 Ultra": [
+      "日常单机",
+      "有自清洁描述。依据为该SKU标题及已取得字段；非厂家参数全量核验。"
+    ]
+  }
+}
